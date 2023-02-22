@@ -84,7 +84,7 @@ class Umpire {                              // in this they take the number and 
             }
             //323System.out.println("Player 2 won the gasmr"); 
         }    
-        else if (numFromGuesser==numFromPlayer3)                                        ////  Umpire check the player 3 guess the number if they guess the number then body execute otherwise not
+        else if (numFromGuesser==numFromPlayer3)                                        //  Umpire check the player 3 guess the number if they guess the number then body execute otherwise not
         {
             System.out.println("Player 3 Guess Correct number");
         } 
